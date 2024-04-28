@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!+;%F0%9F%92%BB+Self-taught+development;%F0%9F%92%8EFocused+on+Discord+bot+creation)](https://git.io/typing-svg)
 
 ## About Me
 + 🧑 Name:  `Jannik`
