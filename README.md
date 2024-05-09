@@ -19,7 +19,7 @@
 - [Discord-Slash-Command](https://github.com/TrapstarJannik/Discord-Slash-Command) ⚙️: A template for a discord.py bot with a sync and slash-command. 
 - [Discord-Clear-Bot](https://github.com/TrapstarJannik/Discord-Clear-Bot) 📌: A fully customizable discord.py bot with a clear command.
 - [Discord-Server-Info](https://github.com/TrapstarJannik/Discord-Server-Info) 📊: This bot provides detailed information about a Discord server.
-- [Simple-Color-Picker](https://github.com/TrapstarJannik/Simple-Color-Picker) 🎨: A simple HTML color picker with HEX and RGB code output.
+- [Discord-Cog-Template](https://github.com/TrapstarJannik/Discord-Cog-Template) 🔗: A discord.py v2 cog template with a command and slash command
 
 ## 📊 GitHub Stats:
 [![Jannik's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrapstarJannik&theme=nord&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
