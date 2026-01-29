@@ -9,9 +9,8 @@
 
 ## ✉️ Connect with Me
 + 📧 Email: @contact.trapstarjannik@gmail.com
-+ 📱 Instagram: trapstar.jannik
-+ 📸 Snapchat: trapper.jannik
-+ 💎 Discord: trapstar.jannik
++ 📱 Instagram: qJannik_
++ 💎 Discord: qJannik
 
 ## 🔥 Projects
 ### Here are some of my projects:
