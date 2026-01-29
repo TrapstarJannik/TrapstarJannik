@@ -3,7 +3,7 @@
 ## 📋 About Me
 + 🧑 Name:  `Jannik`
 + 🌎 from `Germany`. In my free time, I love working on open-source projects and image editing
-+ 🎓 I'm currently going to school.
++ 👨🏻‍💻 IT specialist for system integration
 + 💻 Programming: I have experience in `Java, Python, Linux, Raspberry PI` and other tools listed below.
 
 
